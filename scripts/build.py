@@ -7,6 +7,7 @@ from collections.abc import Callable, Coroutine
 from typing import TextIO
 
 from icecream import ic
+
 from sbr import Rule, preset
 
 

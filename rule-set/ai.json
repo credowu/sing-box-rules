@@ -1,5 +1,5 @@
 {
-  "version": 20240921,
+  "version": 2,
   "rules": [
     {
       "domain": [
@@ -33,6 +33,7 @@
         "phind.com",
         "production-openaicom-storage.azureedge.net",
         "r.bing.com",
+        "reka.ai",
         "self.events.data.microsoft.com",
         "services.bingapis.com",
         "static.cloudflareinsights.com",
@@ -69,22 +70,27 @@
         "featuregates.org",
         "gemini.google.com",
         "generativeai.google",
+        "genspark.ai",
         "host.livekit.cloud",
         "identrust.com",
         "intercom.io",
         "intercomcdn.com",
         "launchdarkly.com",
+        "meta.ai",
         "oaistatic.com",
         "oaiusercontent.com",
         "observeit.net",
         "openai.com",
         "openaiapi-site.azureedge.net",
         "openaicom.imgix.net",
+        "phind.com",
         "proactivebackend-pa.googleapis.com",
+        "reka.ai",
         "segment.io",
         "sentry.io",
         "stripe.com",
-        "turn.livekit.cloud"
+        "turn.livekit.cloud",
+        "you.com"
       ]
     }
   ]
